@@ -1,12 +1,12 @@
 <template>
   <div class="flex flex-col items-center justify-center h-screen bg-gradient-to-b from-pink-300 to-pink-400 p-4">
     <div class="bg-white p-8 rounded-3xl shadow-xl text-center w-full max-w-md relative overflow-hidden">
-      <h1 class="text-4xl font-extrabold text-pink-600 drop-shadow-lg">🎉 ยินดีด้วย! 🎉</h1>
+      <h1 class="text-4xl font-extrabold text-pink-600 drop-shadow-lg">🎉 เย้!! 🎉</h1>
       <p class="text-lg text-gray-700 mt-3 font-medium">ตอนนี้เราเป็นแฟนกันแล้วนะ! 💑</p>
       
-      <div class="mt-6 flex flex-col gap-4 items-center">
+      <div class="@assets/C5F31CE6-0EF2-4010-973A-62611E093818.jpeg">
         <img src="https://source.unsplash.com/200x200/?love,heart" alt="love" class="https://pin.it/4oPqoAfmv" />
-        <p class="text-xl text-pink-600 font-semibold">ฉันรักเธอมากนะ ❤️</p>
+        <p class="text-xl text-pink-600 font-semibold">เธอน่ารักที่สุดเลยยยย ❤️</p>
       </div>
       
       <button
